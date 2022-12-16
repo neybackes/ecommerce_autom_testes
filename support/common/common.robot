@@ -1,5 +1,6 @@
 *** Settings ***
 Documentation    Keyword para acoes gerais
+Library          OperatingSystem
        
 
 

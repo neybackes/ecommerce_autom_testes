@@ -24,7 +24,7 @@ Cenario: Validar o login como administrador
     Login administrador
     
 Cenario: Cadastrar um novo produto no inventário
-    [Tags]                                  ADM-05
+    [Tags]                                  ADM-03
     Iniciar cores de resposta
     Validar Titulo                          Jamstack ECommerce 
     Maximize Browser Window
@@ -33,7 +33,7 @@ Cenario: Cadastrar um novo produto no inventário
     Cadastrar novo produto
 
 Cenario: Excluir produto do inventário
-    [Tags]                                  ADM-06
+    [Tags]                                  ADM-04
     Iniciar cores de resposta
     Validar Titulo                          Jamstack ECommerce 
     Maximize Browser Window
@@ -43,7 +43,7 @@ Cenario: Excluir produto do inventário
 
 
 Cenario: Validar Logout do administrador pagina inventario
-    [Tags]                                  ADM-07
+    [Tags]                                  ADM-05
     Iniciar cores de resposta
     Validar Titulo                          Jamstack ECommerce 
     Maximize Browser Window
@@ -53,7 +53,7 @@ Cenario: Validar Logout do administrador pagina inventario
     Logout Administrador pagina inventario
     
 Cenario: Validar Logout do administrador pagina adicionar produto
-    [Tags]                                  ADM-08
+    [Tags]                                  ADM-06
     Iniciar cores de resposta
     Validar Titulo                          Jamstack ECommerce 
     Maximize Browser Window

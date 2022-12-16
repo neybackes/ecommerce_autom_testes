@@ -14,34 +14,30 @@
         - Quando eu clico na opção admin
         - E clico na opção "Already signed up?"
         - E informo os dados para login
-        - Então a pagina "Invetory" deve aparecer
-        
-    Adm 03 - Validar recuperação de senha;
-        - Aplicação sem funcionalidade definidada
-
-    //redudante Adm 04 - Validar acesso ao inventário;      
+        - Então a pagina "Invetory" deve aparecer       
+      
         - 
-    Adm 05 - Validar adicionar item ao inventário;
+    Adm 03 - Validar adicionar item ao inventário;
         - Dado que eu queira cadastra um novo produto no inventario
         - Quando eu faco login com administrador
         - e entro na opçao adicionar "add item"
         - e adiciono os dados do novo produto 
         - Entao ao clicar na opcao "Add item" o produto deve ser cadastrado"
 
-    Adm 06 - Validar excluir item do inventário;
+    Adm 04 - Validar excluir item do inventário;
         - Dado que eu queria excluir um produto do inventário
         - Quando eu faco login como adiminstrador
         - e acesso a pagina "Invetory"
         - e clico em remove produto de um elemento
         - Então o produto deve ser removido do inventário
 
-    Adm 07 - Validar logout na página inventário;
+    Adm 05 - Validar logout na página inventário;
         - Dado que eu queira fazer logout como administrador
         - Quando faco login com Administrador
         - e estou dentro de página inventário
         - e clico em na opção "Sign Out"
         - Entao devo retornar ao Painel Administrativo
-    Adm 08 - Validar logout na página de adicionar produto.
+    Adm 06 - Validar logout na página de adicionar produto.
         - Dado que eu queira fazer logout como administrador
         - Quando faco login com Administrador
         - e estou dentro de página inventário
