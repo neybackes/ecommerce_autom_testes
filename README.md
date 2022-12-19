@@ -118,7 +118,7 @@ ${nome_de_sua_variavel}    valor da variavel
 Biblioteca | Versão | Utilização |
 ---- | ---- | ---- |
  <a href="https://medium.com/@mayfernandes/season-tutoriais-ep-01-instalando-o-robot-framework-windows-aebf4477bcae" target="_blank">Robot Framework</a><br> | 6.0.1 | Robot Framework é uma estrutura de automação genérica open source, ou seja, de código aberto que pode ser usado para testar e automatizar processos de software. |
- <a href="https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html" target="_blank">Selenium Library</a><br> | 6.0.0 | BrowserLibrary utiliza uma tecnologia baseada em JavaScript chamada Playwright. O dramaturgo se conecta diretamente à API do navegador e tem controle total do navegador e de seu conteúdo. |
+ <a href="https://robotframework.org/SeleniumLibrary/SeleniumLibrary.html" target="_blank">Selenium Library</a><br> | 6.0.0 | SeleniumLibrary usa módulos Selenium WebDriver internamente para controlar um navegador da web. |
  
  
 </td></tr> </table>
@@ -133,6 +133,15 @@ Biblioteca | Versão | Utilização |
   <div> 
     <img src="https://user-images.githubusercontent.com/105370199/182438349-e2fe6536-491c-4c19-a775-ac2046b4b7bb.png" width="1000px" />
   </div>
+
+  
+
+#### Dentro do diretório utilze o script atualizador para atualizar as depedências e o pip automaticamente.
+
+
+> sh autalizador.sh 
+
+
 
 <div>
 

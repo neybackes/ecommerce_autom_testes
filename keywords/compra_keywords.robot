@@ -24,7 +24,6 @@ Remover produto do carrinho
 
 Finalizar Compra
     Click Element                           css:#__next main div p[class="text-gray-600 text-sm mr-2"]
-
     Click Link                           css:#__next main div form iframe[name="__privateStripeFrame3586"]
 
 

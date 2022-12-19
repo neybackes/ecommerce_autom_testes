@@ -5,10 +5,8 @@ echo "rodando..."
 while true; do
     echo "Acessando a pasta script"    
     echo "Selecione uma opção:"
-    echo "1 - Instalar o Robot Framework e Sellenium"
-    echo "2 - Instalar o Python"
-    echo "3 - Instalar o Git"
-    echo "4 - Sair"
+    echo "1 - Instalar o Robot Framework e Sellenium"    
+    echo "2 - Sair"
     read -p "Digite o numero da opção: " opcao
 
     clear
@@ -61,7 +59,13 @@ while true; do
             esac            
             
             ;;
-        
+        2)
+            echo "Saindo..."
+            exit
+            ;;
 
     esac
+        
+
+    
 done

@@ -35,5 +35,5 @@ Cenario: Validar Compra Cartao Credito
     Acessar Pagina                          category/chairs
     Validar Titulo                          Jamstack ECommerce - new arrivals
     Adicionar produto ao carrinho   
-    Finalizar Compra
-    Sleep                                   3
+    #Finalizar Compra
+    #Sleep                                   3
